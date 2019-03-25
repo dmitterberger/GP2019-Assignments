@@ -2,8 +2,8 @@
 
 ## Student data
 
-Name: 'Your real name'  
-Legi-Nr: 'Your legi number'
+Name: 'Daniela Mitterberger'  
+Legi-Nr: '18-902-379'
 
 Follow the [instructions](#workflow) to updated your private repository.
 
